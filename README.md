@@ -1,2 +1,3 @@
-# curso_azure
-Repositorio para estudos do Azure
+# Curso Azure
+
+Repositório para estudos do Azure
